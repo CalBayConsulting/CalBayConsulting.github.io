@@ -21,7 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "jackhuanghll@gmail.com"}
-  
+  - {title: twitter, icon:twitter, url:"http://twitter.com/CalBayConsulting"}
+  - {title: linkedin, icon: linkedin, url:"http://linkedin.com/CalBayConsulting"}
+  - {title: Google Scholar, icon: Google Scholar, url:"http://googlescholar.com/CalBayConsulting"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
