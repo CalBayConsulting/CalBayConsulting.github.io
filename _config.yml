@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "jackhuang.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jackhuanghll@gmail.com"}
+  - {title: Mail, icon: envelope, url:"mailto:jackhuanghll@gmail.com"}
   - {title: twitter, icon: twitter, url:"http://twitter.com/CalBayConsulting"}
   - {title: linkedin, icon: linkedin, url:"https://www.linkedin.com/in/jack-liliang-huang-699a27112/"}
   - {title: Google Scholar, icon: Google Scholar, url:"http://googlescholar.com/CalBayConsulting"}
