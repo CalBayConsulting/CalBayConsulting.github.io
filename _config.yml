@@ -17,9 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Team", file: "team.md"}
+  - {file: "jackhuang.pdf", title: "CV"}
   - {title: "Service", file: "service.md"}
   - {file: "contact.md", title: "Contact"}
-  - {file: "jackhuang.pdf", title: "CV"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jackhuanghll@gmail.com"}
